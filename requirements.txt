@@ -1,0 +1,3 @@
+# Only need dateutil for date parsing
+python-dateutil==2.8.2
+Flask==3.0.2 
