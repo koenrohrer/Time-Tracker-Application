@@ -16,9 +16,6 @@ A simple web application for tracking time entries with a clean, intuitive inter
   - SQLite database for reliable data persistence
   - Simple and lightweight
 
-## Screenshots
-
-(Screenshots can be added here)
 
 ## Prerequisites
 
